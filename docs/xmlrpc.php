@@ -4,11 +4,11 @@
 		<engineLink>https://wordpress.org/</engineLink>
 		<homePageLink>https://hofman-photo.cz</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://hofman-photo.cz/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://hofman-photo.cz/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://hofman-photo.cz/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://hofman-photo.cz/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://hofman-photo.cz/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://akirathan.github.io/hofman-photo/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://akirathan.github.io/hofman-photo/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://akirathan.github.io/hofman-photo/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://akirathan.github.io/hofman-photo/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://akirathan.github.io/hofman-photo/wp-json/" />
 			</apis>
 	</service>
 </rsd>
